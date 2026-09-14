@@ -8,6 +8,8 @@ A little more about me... with npm installed, just type
 npx anantjain
 ```
 
-<img alt="screenshot" src="https://github.com/anantj09/anantj09/blob/main/screenshot.png?raw=true" />
+<p align="center">
+  <img alt="screenshot" src="screenshot.png" width="700">
+</p>
 
 ![My GitHub Game](game.gif)
