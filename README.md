@@ -9,7 +9,7 @@ npx anantjain
 ```
 
 <p align="center">
-  <img alt="screenshot" src="screenshot.png" width="700">
+  <img alt="screenshot" src="screenshot.png" width="600">
 </p>
 
 ![My GitHub Game](game.gif)
